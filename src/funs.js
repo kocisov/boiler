@@ -1,9 +1,5 @@
 import { darken, lighten } from 'polished';
 
-export function fun() {
-  return 'fun';
-}
-
 export function gradient({
   color,
   to = 'bottom',
